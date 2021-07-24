@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/External/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2021-07-24T14:51:22.626425+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/External/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2021-07-24T14:51:22.626425+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/External/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2021-07-24T14:51:22.6274263+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/External/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2021-07-24T14:51:22.6274263+02:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/External/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2021-07-24T14:51:22.6284272+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/External/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2021-07-24T14:51:22.6284272+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43052fac5259f504dbb7a4f4c3e6cb79</guid>
+    <fileName>Assets/Scripts/CircleRenderer.cs</fileName>
+    <timeStamp>2019-05-18T21:34:49.169159+02:00</timeStamp>
+    <typeFullName>
+      <string>CircleRenderer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8b035dfdc07403e4da69ee62d79fd981</guid>
+    <fileName>Assets/Scripts/FreeLookDrag.cs</fileName>
+    <timeStamp>2019-05-18T23:51:31.5662807+02:00</timeStamp>
+    <typeFullName>
+      <string>FreeLookDrag</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e406736a60e07d646ae3bf13b87ea8e3</guid>
+    <fileName>Assets/Scripts/GridRenderer.cs</fileName>
+    <timeStamp>2019-05-18T20:02:01.502577+02:00</timeStamp>
+    <typeFullName>
+      <string>GridRenderer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>15a00199a216d80428fab13ab0f6f0a1</guid>
+    <fileName>Assets/Scripts/KeyEvent.cs</fileName>
+    <timeStamp>2019-05-15T23:59:41.6514893+02:00</timeStamp>
+    <typeFullName>
+      <string>KeyEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab631c906f2162c4d912b2c9434c9599</guid>
+    <fileName>Assets/Scripts/MouseTrigger.cs</fileName>
+    <timeStamp>2019-05-19T17:39:54.4614924+02:00</timeStamp>
+    <typeFullName>
+      <string>MouseTrigger</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5ac8afd324857d6429bf9a11fd4bdd04</guid>
+    <fileName>Assets/Scripts/Orbit.cs</fileName>
+    <timeStamp>2019-05-15T22:23:42.8248971+02:00</timeStamp>
+    <typeFullName>
+      <string>Orbit</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef5ae8e70511ab84d91985e0ea4e8077</guid>
+    <fileName>Assets/Scripts/OrbitRenderer.cs</fileName>
+    <timeStamp>2019-05-15T00:11:32.9973278+02:00</timeStamp>
+    <typeFullName>
+      <string>OrbitRenderer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1ce921cb1c91690428a7b35456f05a09</guid>
+    <fileName>Assets/Scripts/Quit.cs</fileName>
+    <timeStamp>2019-05-15T23:57:41.9644939+02:00</timeStamp>
+    <typeFullName>
+      <string>Quit</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11d1e1c02c24f454d8af39a2338b24ea</guid>
+    <fileName>Assets/Scripts/Rotate.cs</fileName>
+    <timeStamp>2019-05-14T00:00:38.4337917+02:00</timeStamp>
+    <typeFullName>
+      <string>Rotate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f1d70d60caf08564a8f1981633266209</guid>
+    <fileName>Assets/Scripts/SliderValueUI.cs</fileName>
+    <timeStamp>2019-05-15T00:33:48.8794212+02:00</timeStamp>
+    <typeFullName>
+      <string>SliderValueUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7bdac0f390049564ba797779f372556b</guid>
+    <fileName>Assets/Scripts/SolarSystem.cs</fileName>
+    <timeStamp>2019-05-18T22:19:45.6556388+02:00</timeStamp>
+    <typeFullName>
+      <string>SolarSystem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4c04b8ace2f197b4c9687011651f6215</guid>
+    <fileName>Assets/Scripts/ToggleButton.cs</fileName>
+    <timeStamp>2019-05-18T13:20:51.1118626+02:00</timeStamp>
+    <typeFullName>
+      <string>UnityEngine.UI.ToggleButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a2637bf167c11844aadb8be08868a80</guid>
+    <fileName>Assets/Scripts/ToggleHelper.cs</fileName>
+    <timeStamp>2019-05-18T19:05:48.1071764+02:00</timeStamp>
+    <typeFullName>
+      <string>ToggleHelper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cb4d0a314b4de1e4594b28255ec2e6d0</guid>
+    <fileName>Assets/Scripts/WindowButtons.cs</fileName>
+    <timeStamp>2019-05-18T01:02:51.297079+02:00</timeStamp>
+    <typeFullName>
+      <string>WindowButtons</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8f2a2c44674d7ba4fbe21338c9fbd174</guid>
+    <fileName>Assets/Scripts/WindowManager.cs</fileName>
+    <timeStamp>2019-05-17T21:11:56.2750752+02:00</timeStamp>
+    <typeFullName>
+      <string>WindowManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
