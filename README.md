@@ -11,6 +11,11 @@ Raeykjavik for example barely gets any sunlight at all during winter.
 
 ![grafik](https://user-images.githubusercontent.com/3155116/126871857-bbe87b32-6f48-48f9-88ff-556c9de17dcc.png)
 
+# Try it out
+[Launch the Web App](https://peaj.github.io/Daylength/) directly in your browser.
+
+Alternatively download the latest [Windows Desktop Release](https://github.com/Peaj/Daylength/releases) (as zip) or clone the project to build it yourself
+
 ## Dislaimer
 The project is using a simplified model of earths orbit around the sun which is not intended to be realistic in shape or scale.
 
