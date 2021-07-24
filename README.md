@@ -1,5 +1,10 @@
 # Daylength
 
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/peaj/daylength)
+![GitHub](https://img.shields.io/github/license/peaj/daylength)
+![GitHub last commit](https://img.shields.io/github/last-commit/peaj/daylength)
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
+
 This project has been build to illustrate why the length of day varies during the course of a year.
 Follow one of the city markers to see how the tilted axis impacts the daylength during summer or winter.
 Raeykjavik for example barely gets any sunlight at all during winter.
